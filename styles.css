@@ -1,21 +1,14 @@
-.blue {
-  color:rgb(64, 145, 44);
-}
-
-
-h1 {
-  color:green;
-}
-
-body {
-  color:red;
-}
-
-.box {
-  height: 100px;
-  width: 100px;
-  padding: 20px;
-  margin: 50px;
-  border:10px solid black;
+div {
   background-color: red;
+  text-align: center;
+  font-size: 32px;
+  color:white;
+  font-weight: bold;
 }
+
+p {
+  background-color: green;
+  color:white;
+  font-size: 18px;
+}
+
