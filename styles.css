@@ -1,14 +1,22 @@
-div {
-  background-color: red;
-  text-align: center;
-  font-size: 32px;
-  color:white;
+
+
+.odd {
+  background-color: rgb(255, 167, 167);
+  font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+.adjust-font-size {
+  font-size: 24px;
+}
+
+#two {
+  color:blue;
+  font-size: 36px;
+} 
+
+#four {
+  color: black;
+  background-color: lightgreen;
+  font-size: 24px;
   font-weight: bold;
 }
-
-p {
-  background-color: green;
-  color:white;
-  font-size: 18px;
-}
-
